@@ -1,2 +1,2 @@
 # generativeART
-Exploring Some generative art
+Exploring generative art
