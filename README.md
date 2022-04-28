@@ -1,2 +1,0 @@
-# generativeART
-Exploring generative art
